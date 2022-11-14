@@ -1,4 +1,4 @@
-Olá! Sou a Jenny Tiburcio, estou migrando da Arquitetura para iniciar no mundo tech.
+Olá! Sou a Jenny Tiburcio, iniciante no mundo tech.
 
 - 🌱 Atualmente participo do Programa By Start Capgemini 
 - 📫 Contate-me em jennifertiburciot@gmail.com
